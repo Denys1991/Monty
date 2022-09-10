@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 400;
+  src: url(Montserrat-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  src: url(Montserrat-Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Open_Sans";
+  font-weight: 400;
+  src: url(OpenSans-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "SourceSansPro";
+  font-weight: 400;
+  src: url(SourceSansPro-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "FontAwesome";
+  src: url(fontawesome-webfont.ttf) format("truetype");
+}
