@@ -204,5 +204,6 @@ $(function () {
         $('.forma').toggleClass('activisi');
         $('.page_overlay').toggleClass('open');
         $('.forma2_wrapper').toggleClass('open');
+        $('body').toggleClass('lock');
     })
 })
