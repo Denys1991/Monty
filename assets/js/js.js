@@ -53,6 +53,14 @@ $(function () {
                 settings: {
                     dots: false
                 }
+            },
+            {
+                breakpoint: 500,
+                settings: {
+                    vertical: false,
+                    dots: false,
+                    verticalSwiping: false
+                }
             }
         ]
     });
