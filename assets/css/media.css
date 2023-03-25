@@ -196,6 +196,10 @@
   .btn_slider {
     top: 150px;
   }
+
+  .overlay {
+    padding: 200px 0;
+  }
 }
 @media (max-width: 410px) {
   .projects_wrapper {
